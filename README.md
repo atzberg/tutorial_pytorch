@@ -5,6 +5,10 @@ Paul J. Atzberger
 
 This is a beginner-friendly series of Jupyter notebooks covering the fundamentals of PyTorch. Topics include tensors, broadcasting, and building and training neural networks.
 
+<p align="left">
+<img src="./zdoc_img/atz_tensor_render_01.png" width="35%"> 
+</p>
+
 ## Installation
 
 We use the packages 
