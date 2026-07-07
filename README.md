@@ -36,7 +36,7 @@ It is recommended to work through these in order since each notebook builds on c
 
 #### Acknowledgements 
 
-AI Claude Sonnet 4.6 was used in our development of this tutorial series.
+AI Claude Sonnet 4.6 was used in our development of this tutorial series. This work was supported by NSF Grant DMS-1616353 and NSF-DMS-2306345.
 
 ## Key Concepts Covered
 
