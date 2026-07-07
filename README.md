@@ -46,4 +46,4 @@ AI Claude Sonnet 4.6 was used in our development of this tutorial series.
 - **Optimization**: how gradient descent and Adam minimize a loss function, and how to write a training loop.
 - **End-to-end example**: training a multi-layer perceptron (MLP) to reproduce a 2D function from (x, y) coordinate inputs, with live loss curves and side-by-side visualization.
 
-To get started go to the first notebook [[01_tensors.ipynb]](01_tensors.ipynb) or see the topic links above. 
+To get started see the topic links above or go to the first notebook [[01_tensors.ipynb]](01_tensors.ipynb).
